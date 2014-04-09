@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="chatstuff" parent="@style/_chatstuff"/>
+
+  <style name="_chatstuff" parent="android:Theme.Holo.Light">
+
+    <item name="android:editTextBackground">@drawable/chatstuff_edit_text_holo_light</item>
+
+    <item name="android:buttonStyle">@style/Buttonchatstuff</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonchatstuff</item>
+
+  </style>
+
+</resources>

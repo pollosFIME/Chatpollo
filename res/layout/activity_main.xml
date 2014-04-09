@@ -29,12 +29,5 @@
             android:background="@drawable/chatstuff_btn_default_focused_holo_light"
         />
 
-        <android.widget.Button
-            android:id="@+id/button_file"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="file" 
-            android:background="@drawable/chatstuff_btn_default_focused_holo_light"/>
-
     </LinearLayout>
 </LinearLayout>
