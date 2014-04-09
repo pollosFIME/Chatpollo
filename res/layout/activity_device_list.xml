@@ -2,6 +2,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/fondob"
     >
     <ListView android:id="@+id/in"
         android:layout_width="match_parent"
@@ -25,6 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/send"
+            android:background="@drawable/chatstuff_btn_default_focused_holo_light"
         />
     </LinearLayout>
 </LinearLayout>
